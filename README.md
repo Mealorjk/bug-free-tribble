@@ -1,6 +1,6 @@
 # hello-world
 
-Hi Humans!
+Hi Friends!
 
-Hubot here, I like Node.js and Coffeescript (that what I'm made of!)
-I've had tacos on the moon and find them far superior Earth tacos.
+I'm Mealorjk and come from China.
+Recently, I have been learning C++ by myself,and feel surprised to find this Website
